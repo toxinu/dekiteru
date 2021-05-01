@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/ulule/dekiteru/services"
+	"github.com/toxinu/dekiteru/services"
 )
 
 // Run runs the given service

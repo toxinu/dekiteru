@@ -7,7 +7,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/ulule/dekiteru/checker"
+	"github.com/toxinu/dekiteru/checker"
 )
 
 const (
